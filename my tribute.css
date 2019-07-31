@@ -1,0 +1,71 @@
+h1{
+  text-align: center;
+  display: inline-block;
+}
+
+#photo{
+
+  width: 250px;
+  height: 300px;
+  position: relative;
+  left: 30px;
+  border-radius: 5px;
+
+}
+
+.body{
+  background-color:powderblue;
+}
+
+.Heading{
+  weight: 100%;
+  text-align: center;
+}
+
+.first-name{
+  color: orange;
+}
+.middle-name{
+  color: white;
+}
+
+.last-name{
+  color: green;
+}
+
+.award{
+  position: relative;
+  top: 10px;
+}
+.award2{
+  position: relative;
+  top: 20px;
+}
+ .award3{
+   position: relative;
+   top: 30px;
+ }
+
+.quote{
+  position: relative;
+  top: 10px;
+  color: green;
+  font-size: 18px;
+}
+
+.life{
+  font-size: 20px;
+  color: blue;
+}
+#life1{
+  position: relative;
+  left: 20px;
+}
+.linear{
+    border-radius: 20px;
+    width: 90%;
+    height: 300px;
+    margin: 50px auto;
+    background: linear-gradient(90deg, #CCFFFF,  #FFCCCC);
+
+  }
