@@ -39,19 +39,6 @@ h1{
   color: green;
 }
 
-.award2{
-  position: relative;
-  top: 10px;
-}
-.award3{
-  position: relative;
-  top: 20px;
-}
- .award4{
-   position: relative;
-   top: 30px;
- }
-
 .quote{
   position: relative;
   top: 10px;
@@ -68,12 +55,25 @@ h1{
   left: 15px;
 }
 .linear {
-    border-radius: 20px;
-    width: 90%;
-    height: auto;
-    margin: 50px auto;
-    background: linear-gradient(90deg, #CCFFFF,  #FFCCCC);
-  }
+  border-radius: 20px;
+  width: 96%;
+  padding: 10px 20px;
+  height: auto;
+  margin: 50px auto;
+  background: linear-gradient(90deg, #CCFFFF,  #FFCCCC);
+}
+
+.timeline {
+  display: block;
+  width: 100%:
+  height: auto;
+}
+
+.timeline li {
+  margin: 20px 0;
+  line-height: 23px;
+  font-family: Roboto;
+}
 
   /*This is for mobile version*/
   @media all and (min-width: 200px) and (max-width: 800px){
