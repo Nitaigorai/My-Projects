@@ -71,6 +71,7 @@ h1{
 .timeline li {
   margin: 20px 0;
   line-height: 23px;
+  font-family: Roboto;
 }
 
   /*This is for mobile version*/
